@@ -1,4 +1,4 @@
-package customQr
+package customQR
 
 import (
 	"errors"
